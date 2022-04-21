@@ -1,0 +1,4 @@
+# This file contains all libraries that need to be installed to run the code.
+# To install all libraries run:
+#          pip install requirements.txt
+# all libraries needed will be installed
